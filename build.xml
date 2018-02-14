@@ -10,7 +10,7 @@ hello hi
   <property name="test.src.dir" value="ServerEnvTestCases" />
 
   <path id="classpath.base" >
-    <pathelement location="lib/mysql-connector-java-5.1.38-bin.jar"/>
+    <pathelement location="lib/mysql-connector-java-5.1.38.1-bin.jar"/>
   </path>
 
   <path id="classpath.test">
